@@ -4,9 +4,9 @@
 * [Technologies](#technologies)
 
 ## General
-This project is a arcade style shooter's game - similar to Space Invaders. 
+This project is an arcade style shooter's game - similar to Space Invaders. 
 Started this project to apply current understanding of Python to create a 
-simple 2D game.
+simple 2D game with simple AI movements and difficulty progression.
 
 ## Technologies
 Project created with: 
