@@ -10,5 +10,5 @@ simple 2D game.
 
 ## Technologies
 Project created with: 
-Python 3.7.1
-pygame 1.9.5
+* Python 3.7.1
+* pygame 1.9.5
